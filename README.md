@@ -3,6 +3,7 @@ FWD Data Analysis Professional Track Second Project
 
 Tools used:
 + Python
++ Jupyter Notebook
 + NumPy
 + Pandas
 + Matplotlib
